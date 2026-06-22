@@ -6,11 +6,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0133-clone-graph](https://github.com/supernovaMK/leetCode-letsgo/tree/master/0133-clone-graph) |
 | [0547-number-of-provinces](https://github.com/supernovaMK/leetCode-letsgo/tree/master/0547-number-of-provinces) |
 | [1971-find-if-path-exists-in-graph](https://github.com/supernovaMK/leetCode-letsgo/tree/master/1971-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0133-clone-graph](https://github.com/supernovaMK/leetCode-letsgo/tree/master/0133-clone-graph) |
 | [0547-number-of-provinces](https://github.com/supernovaMK/leetCode-letsgo/tree/master/0547-number-of-provinces) |
 | [1971-find-if-path-exists-in-graph](https://github.com/supernovaMK/leetCode-letsgo/tree/master/1971-find-if-path-exists-in-graph) |
 ## Union-Find
@@ -21,6 +23,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0133-clone-graph](https://github.com/supernovaMK/leetCode-letsgo/tree/master/0133-clone-graph) |
 | [0547-number-of-provinces](https://github.com/supernovaMK/leetCode-letsgo/tree/master/0547-number-of-provinces) |
 | [1971-find-if-path-exists-in-graph](https://github.com/supernovaMK/leetCode-letsgo/tree/master/1971-find-if-path-exists-in-graph) |
+## Hash Table
+|  |
+| ------- |
+| [0133-clone-graph](https://github.com/supernovaMK/leetCode-letsgo/tree/master/0133-clone-graph) |
 <!---LeetCode Topics End-->
