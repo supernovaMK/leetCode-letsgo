@@ -1,5 +1,5 @@
-# leetCode-letsgo
-A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
+# LeetCode에서 푼 코드들을 정리한 저장소입니다.
+## note 폴더에서 매일 공부하고 실수한 부분들을 정리해두었습니다.
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
