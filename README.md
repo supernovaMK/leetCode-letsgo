@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/supernovaMK/leetCode-letsgo/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/supernovaMK/leetCode-letsgo/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/supernovaMK/leetCode-letsgo/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/supernovaMK/leetCode-letsgo/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/supernovaMK/leetCode-letsgo/tree/master/0347-top-k-frequent-elements) |
 ## Sorting
 |  |
@@ -71,4 +72,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/supernovaMK/leetCode-letsgo/tree/master/0347-top-k-frequent-elements) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/supernovaMK/leetCode-letsgo/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
