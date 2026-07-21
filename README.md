@@ -42,6 +42,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/supernovaMK/leetCode-letsgo/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/supernovaMK/leetCode-letsgo/tree/master/0015-3sum) |
 | [0036-valid-sudoku](https://github.com/supernovaMK/leetCode-letsgo/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/supernovaMK/leetCode-letsgo/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/supernovaMK/leetCode-letsgo/tree/master/0128-longest-consecutive-sequence) |
@@ -52,6 +53,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/supernovaMK/leetCode-letsgo/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/supernovaMK/leetCode-letsgo/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/supernovaMK/leetCode-letsgo/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/supernovaMK/leetCode-letsgo/tree/master/0242-valid-anagram) |
@@ -93,6 +95,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/supernovaMK/leetCode-letsgo/tree/master/0015-3sum) |
 | [0125-valid-palindrome](https://github.com/supernovaMK/leetCode-letsgo/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/supernovaMK/leetCode-letsgo/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Binary Search
